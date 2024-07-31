@@ -1,0 +1,11 @@
+.right-img {
+  transform: translateX(-20px);
+  background-color: red;
+  padding: 30%;
+}
+
+.button {
+  filter: drop-shadow(1px 0px 0px var(#b0cd68))
+    drop-shadow(-1px 0px 0px var(#b0cd68)) drop-shadow(0px 1px 0px var(#b0cd68))
+    drop-shadow(0px -1px 0px var(#b0cd68));
+}
